@@ -15,13 +15,13 @@
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project 04</h3>
+<h3 align="center">Project 09</h3>
 
   <p align="center">
-    Digital Marketing Landing Page
+    Developer Company Landing Page
     <br />
     <br />
-    <a href="https://ineuron-digital.netlify.app/">View Demo</a>
+    <a href="https://ineuron-developers.netlify.app/">View Demo</a>
     ·
     <a href="https://prahladinala.in/contact">Contact</a>
   </p>
@@ -47,7 +47,7 @@
 
 ## About The Project
 
-![Project 03: Judge Home Page](./readme_assets/Project04.jpeg)
+![Project 03: Judge Home Page](./readme_assets/Project09.jpeg)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
@@ -76,7 +76,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://ineuron-digital.netlify.app/)
+[Live Project URL](https://ineuron-developers.netlify.app/)
 
 <!-- LEARNT -->
 
@@ -122,7 +122,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 
 Project Link: [https://github.com/prahladinala/Live-Project-9-Developer-Landing-Page](https://github.com/prahladinala/Live-Project-9-Developer-Landing-Page)
 
-Live Project URL: [https://ineuron-digital.netlify.app/](https://ineuron-digital.netlify.app/)
+Live Project URL: [https://ineuron-developers.netlify.app/](https://ineuron-developers.netlify.app/)
 
 <!-- BACK TO TOP -->
 
@@ -175,4 +175,4 @@ Live Project URL: [https://ineuron-digital.netlify.app/](https://ineuron-digital
 <!-- Project screenshot -->
 
 [product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://ineuron-digital.netlify.app/
+[project-url]: https://ineuron-developers.netlify.app/
